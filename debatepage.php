@@ -10,7 +10,7 @@
 	$servername="localhost";
 	$user="root";
 	$pass="";
-	$dbname="NAVNEET";
+	$dbname="DBSE";
 	
 	$q = $_REQUEST["q"];
 ?>
