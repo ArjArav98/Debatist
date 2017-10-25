@@ -6,7 +6,7 @@
 $servername="localhost";
 $user="root";
 $pass="";
-$dbname="NAVNEET";
+$dbname="DBSE";
 
 $username=$_POST['username-loginform'];
 $password=$_POST['password-loginform'];
