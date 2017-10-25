@@ -10,7 +10,7 @@
 	$servername="localhost";
 	$user="root";
 	$pass="";
-	$dbname="NAVNEET";
+	$dbname="DBSE";
 	
 	$num = $_REQUEST["num"];
 	$userCurrent = $_REQUEST["user"];
