@@ -29,6 +29,9 @@ Just to clarify how the application works, I'll be giving a very short algorithm
 6. Users are directed to the Filepage where the name of the topic, the users who have access to this and the text which the file contains appear. These are all editable. When users click ```SAVE```, they are directed back to ```Step 4```.
 7. Users can go back to the Loginpage by typing ```localhost/homepage.html``` in the broswer window. They will then be directed back to ```Step 1```.
 
+## Code Documentation
+I've included comments at the beginning of every PHP and HTML file. These explain what each file does and traces the flow of logic. It also explains how I've coded this application.
+
 ## Built With
 * [TextMate](https://macromates.com/) - Text Editor for Mac OS X
 * [XAMPP](https://www.apachefriends.org/index.html) - Apache Server, PHP and MySQL Server
